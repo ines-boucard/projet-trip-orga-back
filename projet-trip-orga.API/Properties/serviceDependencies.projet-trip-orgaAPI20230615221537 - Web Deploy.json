@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/projet-trip-orgaAPIapi/apis/projet-trip-orgaAPI",
+      "type": "apis.azure"
+    }
+  }
+}
